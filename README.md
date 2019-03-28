@@ -1,6 +1,6 @@
 # Control-Website-Python
 
-# Team Unity made web controller using Python language.
+# Made web controller using Python language.
 ![](ControlWebsite.gif)
 With openCV python we made a project that helps the user easily to navigate through the website like
 1.Scroll Up - Gesture 1
@@ -8,4 +8,4 @@ With openCV python we made a project that helps the user easily to navigate thro
 3.ZoomIn - Gesture 5
 4.ZoomOut - Gesture 0
 
-# Team Unity [WittyHacks 2k19]
+
